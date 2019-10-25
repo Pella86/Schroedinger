@@ -154,11 +154,5 @@ A comparison between the exact Hamiltonian solutions and a Green function repres
 
 ![Plan](./Schroedinger2.png)
 
-<<<<<<< HEAD
 - Try to model non-hamiltonian systems where the wave function current is not conserved, compare to one-body Green functions with imaginary self-energy.
 - Model fission in an exact 1-D toy-model
-
-
-
-=======
->>>>>>> 55b4a86bfec6d3b33d2b9f3276b48524c4e9001c
